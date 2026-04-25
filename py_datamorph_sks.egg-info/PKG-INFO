@@ -1,3 +1,21 @@
+Metadata-Version: 2.4
+Name: py-datamorph-sks
+Version: 1.0.0
+Summary: A high-performance data conversion, cleaning, and statistics library.
+Author: Sk Sahagir
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 4 - Beta
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-python
+Dynamic: summary
+
 
 # 🚀 py-datamorph
 
@@ -29,7 +47,7 @@ You can install `py-datamorph` directly into your local Python environment.
 Navigate to the root directory of the project (where `setup.py` is located) and run:
 
 ```bash
-pip install py-datamorph-sks
+pip install .
 ```
 
 ---
