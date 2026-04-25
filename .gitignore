@@ -1,0 +1,21 @@
+# Python build and distribution files
+build/
+dist/
+*.egg-info/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local environment and IDE settings
+.vscode/
+.idea/
+venv/
+env/
+.env
+
+# OS generated files
+Thumbs.db
+.DS_Store
