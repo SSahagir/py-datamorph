@@ -116,10 +116,10 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 **Sk Sahagir**
 **Academic Details:**
-  **Course:** Bachelor of Technology in Information Technology (IT)  
+  * **Course:** Bachelor of Technology in Information Technology (IT)  
   * **Institute:** Government College of Engineering & Textile Technology, Serampore  
   * **Roll No:** 11000224051  
-  * **Registration No:** 241100110219 (2024-25)  
+  * **Batch:** 2024-'28
 * **Connect with me:** 
   * 📧 [Email](mailto:sksahagira@gcetts.ac.in)  
-  * 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile-handle)  
+  * 🔗 [LinkedIn](https://www.linkedin.com/in/sk-sahagir-a00892254/)  
