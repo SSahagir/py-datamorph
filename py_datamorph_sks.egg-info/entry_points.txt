@@ -1,2 +1,0 @@
-[console_scripts]
-datamorph = py_datamorph.cli:main
